@@ -1,0 +1,4 @@
+{
+    "editor.minimap.enabled": false, // hide minimap
+    "workbench.activityBar.visible": false // hide activity bar
+}
