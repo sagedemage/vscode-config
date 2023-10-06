@@ -1,4 +1,4 @@
-# VSCode Config
+# VS Code Config
 
 ## Settings file Location
 Settings file on Linux:
