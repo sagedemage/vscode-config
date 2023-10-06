@@ -11,7 +11,7 @@ Settings file on Windows:
 %APPDATA%\Code\User\settings.json
 ```
 
-## VSCode Keyboard Shortcuts to Know
+## VS Code Keyboard Shortcuts to Know
 Here are the keyboard shortcuts to know when accessing the activity bar menus: 
 * Explorer: Ctrl + Shift + E
 * Source Control: Ctrl + Shift + G
